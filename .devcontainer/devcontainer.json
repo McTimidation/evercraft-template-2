@@ -14,9 +14,7 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"ms-python.python",
-    				"mtxr.sqltools-driver-pg",
-    				"mtxr.sqltools"
+				"ms-python.python"
 			]
 		}
 	}
