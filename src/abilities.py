@@ -1,5 +1,3 @@
-
-
 class Abilities:
     SCORE_MODS = {
             1: -5,

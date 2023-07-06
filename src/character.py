@@ -1,4 +1,3 @@
-
 from abilities import Abilities
 #Does Character() class have a name? self.name = ""
 #
@@ -51,3 +50,4 @@ class Char:
         setattr(self, 'align', align)
         print('self.align',self.align)
             
+

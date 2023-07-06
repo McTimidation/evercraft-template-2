@@ -207,3 +207,4 @@ def test_dead_people_cant_talk():
 def test_set_alignment_kwarg():
     dan = Char('dan', lawful_good='lawful good')
     assert dan.align == 'lawful good' 
+

@@ -1,4 +1,3 @@
-
 class Attack:
     def __init__(self, roll, pred, opp):
         roll += pred.strength.mod
@@ -26,4 +25,5 @@ class Attack:
 # print(dan.xp, jon.hit_points)
 # Attack(4, dan, jon)
 # print(dan.xp, jon.hit_points)
+
 
